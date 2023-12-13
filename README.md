@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE-PUBLIC/assets/23700365/37ea172a-6b68-441c-af89-b05fdfad824b)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE-PUBLIC/assets/23700365/1fd65246-0737-4bf3-bb9b-88d2e6674d30)
+
 # Basic Info
 
 Note|Description
